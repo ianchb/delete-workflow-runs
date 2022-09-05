@@ -98,4 +98,5 @@ async function run() {
   }
 }
 
+console.log(`This workflow script is edited from https://github.com/Mattraks/delete-workflow-runs with MIT Licence.`);
 run();
