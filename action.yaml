@@ -1,6 +1,6 @@
 name: 'Delete workflow runs'
 description: 'An action to delete workflow runs in a repository.'
-author: 'Mattraks'
+author: 'Mattraks & ianchb'
 
 inputs:
   token:
